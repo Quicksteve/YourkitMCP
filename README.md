@@ -5,6 +5,10 @@ backs become much more legible. To run it, download the appropriate MCP mappings
 by using the download ZIP option, extract the methods.csv and then run the tool with the appropriate arguments (there's 
 a --help available for more info).
 
+### Obsolete
+
+The Yourkit team has added a MCP mapping deobfuscation option themselves; now it is no longer neccessary to use this.
+
 ### Disclaimer
 
 This software is in no way associated with the Yourkit product or the YourKit GmbH. The code was written using a hex 
